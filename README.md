@@ -2,6 +2,13 @@
 
 
 # Boston House Price Prediction
+
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+![Machine Learning](https://img.shields.io/badge/Deep%20Learning-Models-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Introduction
 This project involves predicting house prices in Boston using various machine learning models. The dataset used contains information collected by the U.S Census Service concerning housing in the area of Boston, Massachusetts. The main objective is to predict the value of prices of the houses using different features available in the dataset.
 
